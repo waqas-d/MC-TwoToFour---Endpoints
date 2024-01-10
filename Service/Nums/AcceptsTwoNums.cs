@@ -5,13 +5,13 @@ public class AcceptsTwoNums : IAcceptsTwoNums
     {
     
 
-    public string GetNumsResult(int firstNum, int secondNum)
+    public string GetNumsResult(string firstNum, string secondNum)
     {
-        string userFirstNum = "";
-        string userSecondNum = "";
-        double userNumResult = Convert.ToDouble(userFirstNum +  userSecondNum);
+        double userFirstNum = Convert.ToDouble(firstNum);
+        double userSecondNum = Convert.ToDouble(secondNum);
+        double userNumResult = userFirstNum +  userSecondNum;
         
-        return $"The sum of {firstNum} and {secondNum} is  {userNumResult}";
+        return $"The sum of {userFirstNum} and {userSecondNum} is {userNumResult}";
 
     }
 

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/MC TwoToFour - Endpoints.props" />
+</Project>

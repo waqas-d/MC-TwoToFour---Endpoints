@@ -14,8 +14,8 @@ namespace MC_TwoToFour___Endpoints.Controllers;
     }
 
     [HttpGet] // use Get to get/pull data
-    [Route("GetResult/{firstStatement}/{secondStatement}")] // Route name does not have to match Method name, but Routes give a specific Address to each Method
-    public string GetStatementResult(int firstNumStatement, int secondNumStatement)
+    [Route("GetResult/{firstNumStatement}/{secondNumStatement}")] // Route name does not have to match Method name, but Routes give a specific Address to each Method
+    public string GetStatementResult(string firstNumStatement, string secondNumStatement)
     {   
         return _AcceptsTwoNumsStatements.GetStatementResult(firstNumStatement, secondNumStatement);
     }

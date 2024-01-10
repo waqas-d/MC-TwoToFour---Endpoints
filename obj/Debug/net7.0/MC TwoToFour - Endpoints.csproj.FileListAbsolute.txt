@@ -1,0 +1,33 @@
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/appsettings.Development.json
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/appsettings.json
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/MC TwoToFour - Endpoints
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/MC TwoToFour - Endpoints.deps.json
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/MC TwoToFour - Endpoints.runtimeconfig.json
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/MC TwoToFour - Endpoints.dll
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/MC TwoToFour - Endpoints.pdb
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/waqasdad/MC TwoToFour - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.csproj.AssemblyReference.cache
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.AssemblyInfoInputs.cache
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.AssemblyInfo.cs
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.csproj.CoreCompileInputs.cache
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.MC TwoToFour - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.build.MC TwoToFour - Endpoints.props
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MC TwoToFour - Endpoints.props
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MC TwoToFour - Endpoints.props
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/staticwebassets.build.json
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/staticwebassets.development.json
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/scopedcss/bundle/MC TwoToFour - Endpoints.styles.css
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.csproj.CopyComplete
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.dll
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/refint/MC TwoToFour - Endpoints.dll
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.pdb
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/MC TwoToFour - Endpoints.genruntimeconfig.cache
+/Users/waqasdad/MC TwoToFour - Endpoints/obj/Debug/net7.0/ref/MC TwoToFour - Endpoints.dll

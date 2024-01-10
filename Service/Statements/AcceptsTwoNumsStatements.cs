@@ -3,12 +3,12 @@ public class AcceptsTwoNumsStatements : IAcceptsTwoNumsStatements
 {
 
 
-    public string GetStatementResult(int firstNumStatement, int secondNumStatement)
+    public string GetStatementResult(string firstNumStatement, string secondNumStatement)
     {
-        string userFirstNum = "";
-        string userSecondNum = "";
-        double userFirstNumResult = Convert.ToDouble(userFirstNum);
-        double userSecondNumResult = Convert.ToDouble(userSecondNum);
+        // string userFirstNum = "";
+        // string userSecondNum = "";
+        double userFirstNumResult = Convert.ToDouble(firstNumStatement);
+        double userSecondNumResult = Convert.ToDouble(secondNumStatement);
         if (userFirstNumResult > userSecondNumResult)
         {
             return $"{firstNumStatement} is greater than {secondNumStatement}.";
@@ -33,6 +33,8 @@ public class AcceptsTwoNumsStatements : IAcceptsTwoNumsStatements
         else if (userSecondNumResult == userFirstNumResult)
         {
             return $"{secondNumStatement} is equal to {secondNumStatement}.";
+        } else {
+            return "false";
         }
     }
 
