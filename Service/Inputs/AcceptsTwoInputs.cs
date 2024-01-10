@@ -1,4 +1,4 @@
-using MC_TwoToFour___Endpoints.Service.Inputs;
+namespace MC_TwoToFour___Endpoints.Service.Inputs;
 
 
 public class AcceptsTwoInputs : IAcceptsTwoInputs
