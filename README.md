@@ -8,5 +8,5 @@ Description: Create 3 endpoints. Each endpoint must have their own Controller fi
      I. The first statement should tell me if the first number is greater than, less than or equal to the second number.
      II. The second statement should tell me if the second number is greater than, less than, or equal to the first number.
 
-Peer reviewed by: 
+Peer reviewed by Sebastian: The endpoints run well when the proper inputs are given. However, there is no data validation, so strings where numbers are expected break the code. AcceptsTwoNumsStatements also asks for two statements to be returned, instead of one. It looks like its implemented in the code, but an "else if" is messing it up.
 

@@ -22,7 +22,7 @@ public class AcceptsTwoNumsStatements : IAcceptsTwoNumsStatements
             return $"{firstNumStatement} is equal to {secondNumStatement}.";
         }
 
-        else if (userSecondNumResult > userFirstNumResult)
+        if (userSecondNumResult > userFirstNumResult)
         {
             return $"{secondNumStatement} is greater than {secondNumStatement}.";
         }
@@ -33,7 +33,8 @@ public class AcceptsTwoNumsStatements : IAcceptsTwoNumsStatements
         else if (userSecondNumResult == userFirstNumResult)
         {
             return $"{secondNumStatement} is equal to {secondNumStatement}.";
-        } else {
+        } 
+        else {
             return "false";
         }
     }
